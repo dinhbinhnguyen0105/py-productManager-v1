@@ -1,0 +1,12 @@
+QPushButton#btnCreateNewListing {
+    height: 36px;
+    margin: 12px;
+    border: None;
+    border-radius: 6px;
+    color: rgb(24, 119, 242);
+    background-color: rgb(231, 243, 255);
+    font-weight: bold;
+}
+QPushButton#btnCreateNewListing::hover {
+    background-color: rgb(211, 222, 232);
+}
